@@ -8,7 +8,9 @@ class EmailParser
   
 
   def parse(csv_data)
-    rows = csv_data.split("\n") 
+    rows = csv_data.split("\n")
+    emails = rows.collect do |row|
+      
   end
 
   
