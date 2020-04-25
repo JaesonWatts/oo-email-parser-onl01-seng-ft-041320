@@ -7,8 +7,8 @@ class EmailParser
   
   
 
-  def parse(emails)
-    00
+  def parse(csv_data)
+    rows = csv_data.split("\n") 
   end
 
   
