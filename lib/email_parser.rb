@@ -4,9 +4,11 @@
 # or whitespace (' ').
 
 class EmailParser
-
-  def parse
   
+  
+
+  def parse(emails)
+    00
   end
 
   
